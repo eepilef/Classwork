@@ -28,6 +28,10 @@ public class President {
 		return runVote();
 	}
 	
+	public String setNow(){
+		
+	}
+	
 
 	
 			
